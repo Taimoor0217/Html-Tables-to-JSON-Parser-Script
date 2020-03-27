@@ -1,0 +1,1287 @@
+[
+    {
+        "address1": "1201 Carmichael Way",
+        "city": "Montgomery",
+        "email": {
+            "main": "arec@arec.alabama.gov"
+        },
+        "links": {
+            "exam provider": "https://online.goamp.com/CandidateHome/examination.aspx?p_category=REAL%20ESTATE&p_client_code=ALCT&p_exam_id=20661",
+            "law": "https://arec.alabama.gov/AREC_Bookmark/LawList.aspx",
+            "license application": "https://arec.alabama.gov/arec/pages/professionals/licensing/app_instructions.aspx",
+            "main": "https://arec.alabama.gov/",
+            "news": "https://arec.alabama.gov/arec/pages/media/publications/update_newsletter.aspx",
+            "realtors": "https://www.alabamarealtors.com/"
+        },
+        "name": "Alabama Real Estate Commission",
+        "phone": {
+            "fax": "334-270-9118",
+            "main": "334-242-5544"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/arecalabamagov",
+            "instagram": "https://instagram.com/arecalabamagov",
+            "twitter": "https://www.twitter.com/arecalabamagov",
+            "youtube": "https://www.youtube.com/ARECalabamagov"
+        },
+        "state": "Alabama",
+        "statecode": "AL",
+        "zipcode": "36106-4350"
+    },
+    {
+        "address1": "Division of Corporations, Business and Professional Licensing",
+        "address2": "550 West 7th Avenue, Suite 1500",
+        "city": "Anchorage",
+        "email": {
+            "main": "realestatecommission@alaska.gov"
+        },
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/ak/realestate",
+            "law": "https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/RealEstateCommission/StatutesandRegulations.aspx",
+            "license application": "https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/RealEstateCommission/ApplicantsLicensees.aspx",
+            "main": "https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/RealEstateCommission.aspx",
+            "news": "https://aws.state.ak.us/OnlinePublicNotices/Notices/Search.aspx?status=4&cat=3&subcat=58&dept=3",
+            "realtors": "https://alaskarealtors.com"
+        },
+        "name": "Alaska Real Estate Commission",
+        "phone": {
+            "fax": "907-269-8156",
+            "main": "907-269-8168"
+        },
+        "state": "Alaska",
+        "statecode": "AK",
+        "zipcode": "99501-3567"
+    },
+    {
+        "address1": "100 North 15th Avenue, Suite 201",
+        "city": "Phoenix",
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/az/realestate",
+            "law": "http://www.re.state.az.us/LawBook/LawBook.aspx",
+            "license application": "https://www.azre.gov/Lic/Applicants.aspx",
+            "main": "https://www.azre.gov/",
+            "news": "https://www.azre.gov/Bulletins/Bulletins.aspx",
+            "realtors": "https://www.aaronline.com/"
+        },
+        "name": "Arizona Department of Real Estate",
+        "phone": {
+            "main": "602-771-7799"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/pages/Arizona-Department-of-Real-Estate/173292966054341",
+            "twitter": "https://twitter.com/azdeptre"
+        },
+        "state": "Arizona",
+        "statecode": "AZ",
+        "zipcode": "85007"
+    },
+    {
+        "address1": "612 South Summit Street",
+        "city": "Little Rock",
+        "email": {
+            "main": "arecinv@arkansas.gov"
+        },
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/ar/realestate",
+            "law": "https://www.arec.arkansas.gov",
+            "license application": "https://arec.arkansas.gov/new-applicant",
+            "main": "https://www.arec.arkansas.gov",
+            "news": "https://www.arec.arkansas.gov/news",
+            "realtors": "https://www.arkansasrealtors.com/",
+            "rules": "https://www.arec.arkansas.gov"
+        },
+        "name": "Arkansas Real Estate Commission",
+        "phone": {
+            "fax": "501-683-8020",
+            "main": "501-683-8010"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/ARECnews",
+            "twitter": "https://twitter.com/ARECnews"
+        },
+        "state": "Arkansas",
+        "statecode": "AR",
+        "zipcode": "72201-4740"
+    },
+    {
+        "address1": "1651 Exposition Boulevard",
+        "city": "Sacramento",
+        "links": {
+            "exam provider": "https://www.dre.ca.gov/Examinees/HowWhereScheduled.html",
+            "law": "https://www.dre.ca.gov/Publications/RealEstateLaw.html",
+            "license application": "https://www.dre.ca.gov/files/pdf/re4.pdf",
+            "main": "https://www.dre.ca.gov/",
+            "news": "https://www.dre.ca.gov/CurrentNews.asp",
+            "realtors": "https://www.car.org/"
+        },
+        "name": "California Department of Real Estate",
+        "phone": {
+            "fax": "916-263-8943",
+            "main": "877-373-4542"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/CaliforniaDepartmentOfRealEstate",
+            "twitter": "https://twitter.com/CA_DRE",
+            "youtube": "https://www.youtube.com/user/cadeptdre"
+        },
+        "state": "California",
+        "statecode": "CA",
+        "zipcode": "95815"
+    },
+    {
+        "address1": "Division of Real Estate",
+        "address2": "1560 Broadway, Suite 925",
+        "city": "Denver",
+        "email": {
+            "main": "dora_communications@state.co.us"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?testid=649",
+            "license application": "https://apps.colorado.gov/dre/licensing/",
+            "main": "https://www.colorado.gov/dora/division-real-estate/",
+            "news": "https://www.colorado.gov/pacific/dora/node/95936",
+            "realtors": "https://www.coloradorealtors.com/",
+            "rules": "https://www.sos.state.co.us/CCR/DisplayRule.do?action=ruleinfo&ruleId=2307&deptID=18&agencyID=98&deptName=700%20Department%20of%20Regulatory%20Agencies&agencyName=725%20Division%20of%20Real%20Estate&seriesNum=4%20CCR%20725-1"
+        },
+        "name": "Colorado Department of\n Regulatory\n Agencies",
+        "phone": {
+            "main": "303-894-2166"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/Dora.Colorado.gov/",
+            "twitter": "https://twitter.com/ColoRealEstate"
+        },
+        "state": "Colorado",
+        "statecode": "CO",
+        "zipcode": "80202"
+    },
+    {
+        "address1": "Occupational and Professional Licensing Division",
+        "address2": "450 Columbus Blvd., Suite 901",
+        "city": "Hartford",
+        "email": {
+            "main": "dcp.realestate@ct.gov"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=1008",
+            "law": "https://portal.ct.gov/DCP/Agency-Administration/AA-Legislation-and-Regulations/Laws-and-Regulations#r",
+            "license application": "https://portal.ct.gov/DCP/License-Services-Division/All-License-Applications/Real-Estate-Salesperson",
+            "main": "https://portal.ct.gov/DCP/Common-Elements/Consumer-Facts-and-Contacts/Real-Estate",
+            "realtors": "https://www.ctrealtors.com/"
+        },
+        "name": "Connecticut\n Department of Consumer Protection",
+        "phone": {
+            "main": "860-713-6100"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/ctdcp"
+        },
+        "state": "Connecticut",
+        "statecode": "CT",
+        "zipcode": "06103-1840"
+    },
+    {
+        "address1": "Cannon Building",
+        "address2": "Suite 203",
+        "address3": "861 Silver Lake Blvd.",
+        "city": "Dover",
+        "email": {
+            "main": "customerservice.dpr@delaware.gov"
+        },
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/de/realestate",
+            "law": "https://delcode.delaware.gov/title24/c029/",
+            "license application": "https://dpr.delaware.gov/boards/realestate/ressalesperson/",
+            "main": "https://dpr.delaware.gov/boards/realestate/",
+            "realtors": "https://www.delawarerealtor.com/",
+            "rules": "https://regulations.delaware.gov/AdminCode/title24/2900.shtml"
+        },
+        "name": "Delaware Real Estate Commission",
+        "phone": {
+            "fax": "302-739-2711",
+            "main": "302-744-4500"
+        },
+        "socials": {
+            "twitter": "https://twitter.com/delawaredpr"
+        },
+        "state": "Delaware",
+        "statecode": "DE",
+        "zipcode": "19904"
+    },
+    {
+        "address1": "1100 4th Street, SW, 5th Floor",
+        "city": "Washington",
+        "email": {
+            "main": "licensing@dcopla.com"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=5586",
+            "law": "https://www.dcopla.com/realestate/wp-content/uploads/sites/25/2017/09/Real-Estate-Regs-and-Laws.pdf",
+            "license application": "https://realestate.dcopla.com/",
+            "main": "https://www.dcopla.com/realestate/",
+            "realtors": "https://dcrealtors.org/"
+        },
+        "name": "District of Columbia Real Estate Commission",
+        "phone": {
+            "fax": "202-403-3446",
+            "main": "866-270-9817"
+        },
+        "state": "District of Columbia",
+        "statecode": "DC",
+        "zipcode": "20024"
+    },
+    {
+        "address1": "Division of Real Estate",
+        "address2": "400 West Robinson Street, Suite N801",
+        "city": "Orlando",
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/fl/realestate",
+            "law": "https://www.myfloridalicense.com/DBPR/real-estate-commission/statutes-and-rules/",
+            "license application": "https://www.myfloridalicense.com/DBPR/real-estate-commission/#1490282746541-c2089426-85569f01-370b",
+            "main": "https://www.myfloridalicense.com/dbpr/",
+            "news": "https://www.myfloridalicense.com/DBPR/news-room/",
+            "realtors": "https://www.floridarealtors.org/"
+        },
+        "name": "Florida Department\n of\n Business and Professional Regulation",
+        "phone": {
+            "fax": "850-488-8040",
+            "main": "850-487-1395"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/FloridaDBPR",
+            "instagram": "https://www.instagram.com/florida.dbpr/",
+            "twitter": "https://twitter.com/FloridaDBPR",
+            "youtube": "https://www.youtube.com/user/FloridaDBPR/"
+        },
+        "state": "Florida",
+        "statecode": "FL",
+        "zipcode": "32801-1759"
+    },
+    {
+        "address1": "229 Peachtree Street, NE",
+        "address2": "International Tower, Suite 1000",
+        "city": "Atlanta",
+        "email": {
+            "main": "grecmail@grec.state.ga.us"
+        },
+        "links": {
+            "exam provider": "https://online.goamp.com/CandidateHome/examination.aspx?p_category=REAL%20ESTATE&p_client_code=GACT&p_exam_id=30",
+            "law": "https://www.grec.state.ga.us/about/relaw.html",
+            "license application": "https://www.grec.state.ga.us/forms/reforms.html",
+            "main": "https://www.grec.state.ga.us/",
+            "news": "https://www.grec.state.ga.us/about/newsmeetings.html",
+            "realtors": "https://garealtor.com/"
+        },
+        "name": "Georgia Real Estate Commission",
+        "phone": {
+            "fax": "404-656-6650",
+            "main": "404-656-3916"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/GeorgiaRealEstateCommission"
+        },
+        "state": "Georgia",
+        "statecode": "GA",
+        "zipcode": "30303-1605"
+    },
+    {
+        "address1": "King Kalakaua Building",
+        "address2": "335 Merchant Street, Room 333",
+        "city": "Honolulu",
+        "email": {
+            "main": "hirec@dcca.hawaii.gov"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=1665",
+            "law": "https://cca.hawaii.gov/hawaii-revised-statutes/",
+            "license application": "https://cca.hawaii.gov/reb/real_ed/exam_lic/",
+            "main": "https://cca.hawaii.gov/reb/",
+            "news": "https://cca.hawaii.gov/reb/real-estate-commission-bulletin-2016-current/",
+            "realtors": "https://www.hawaiirealtors.com/"
+        },
+        "name": "Hawaii Real Estate Branch",
+        "phone": {
+            "main": "808-586-2643"
+        },
+        "state": "Hawaii",
+        "statecode": "HI",
+        "zipcode": "96813"
+    },
+    {
+        "address1": "575 E. Parkcenter Blvd., Suite 180",
+        "city": "Boise",
+        "email": {
+            "main": "info@irec.idaho.gov"
+        },
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/id/realestate",
+            "law": "https://legislature.idaho.gov/statutesrules/idstat/Title54/T54CH20/",
+            "license application": "https://irec.idaho.gov/education/ilr/",
+            "main": "https://irec.idaho.gov",
+            "realtors": "https://idahorealtors.com/",
+            "rules": "https://irec.idaho.gov/wp-content/uploads/sites/103/publcs/license-law-and-rules.pdf"
+        },
+        "name": "Idaho Real Estate Commission",
+        "phone": {
+            "fax": "208-334-2050",
+            "main": "208-334-3285"
+        },
+        "state": "Idaho",
+        "statecode": "ID",
+        "zipcode": "83706"
+    },
+    {
+        "address1": "Division of Real Estate (DRE)",
+        "address2": "320 West Washington Street, 3rd Floor",
+        "city": "Springfield",
+        "email": {
+            "main": "Fpr.realestate@illinois.gov"
+        },
+        "links": {
+            "exam provider": "https://online.goamp.com/CandidateHome/examination.aspx?p_category=REAL%20ESTATE&p_client_code=ILCBT&p_exam_id=21360",
+            "law": "http://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=1364&ChapterID=24",
+            "license application": "https://ilesonline.idfpr.illinois.gov/DFPR/Default.aspx",
+            "main": "https://www.idfpr.com/DRE.asp",
+            "realtors": "https://www.illinoisrealtors.org/",
+            "rules": "http://www.ilga.gov/commission/jcar/admincode/068/06801450sections.html"
+        },
+        "name": "Illinois Department of Financial and Professional\n Regulation (IDFPR)",
+        "phone": {
+            "main": "888-473-4858"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/ILDFPR",
+            "twitter": "https://twitter.com/IDFPR",
+            "youtube": "https://www.youtube.com/user/IDFPRmedia"
+        },
+        "state": "Illinois",
+        "statecode": "IL",
+        "zipcode": "62786"
+    },
+    {
+        "address1": "Professional Licensing Agency",
+        "address2": "402 W. Washington Street, Room W072",
+        "city": "Indianapolis",
+        "email": {
+            "main": "pla9@pla.in.gov"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=6644",
+            "law": "https://iga.in.gov/legislative/laws/2015/ic/titles/025/articles/34.1/",
+            "license application": "https://www.in.gov/pla/2788.htm",
+            "main": "https://www.in.gov/pla/real.htm",
+            "realtors": "https://www.indianarealtors.com/"
+        },
+        "name": "Indiana Real Estate Commission",
+        "phone": {
+            "fax": "317-233-4236",
+            "main": "317-234-3046"
+        },
+        "state": "Indiana",
+        "statecode": "IN",
+        "zipcode": "46204"
+    },
+    {
+        "address1": "200 E Grand, Suite 350",
+        "email": {
+            "main": "RealEstateCommission@iowa.gov"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=608",
+            "law": "https://plb.iowa.gov/real-estate-sales-brokers/real-estate-license-law-and-rules",
+            "license application": "https://plb.iowa.gov/real-estate-sales-brokers/line-application-types",
+            "main": "https://plb.iowa.gov/board/real-estate-sales-brokers",
+            "news": "https://plb.iowa.gov/real-estate-sales-brokers/news",
+            "realtors": "https://www.iowarealtors.com/"
+        },
+        "name": "Iowa Real Estate\n Commission",
+        "state": "Iowa"
+    },
+    {
+        "address1": "700 SW Jackson, Suite 404",
+        "city": "Topeka",
+        "email": {
+            "main": "krec@ks.gov"
+        },
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/ks/realestate",
+            "law": "https://www.krec.ks.gov/resources/commission-statutes-rules-and-regulations",
+            "license application": "https://www.krec.ks.gov/licensing/salesperson-license-requirements",
+            "main": "https://www.krec.ks.gov/",
+            "news": "https://www.krec.ks.gov/resources/news",
+            "realtors": "https://kansasrealtor.com/"
+        },
+        "name": "Kansas Real Estate Commission",
+        "phone": {
+            "fax": "785-296-1771",
+            "main": "785-296-3411"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/KansasRealEstateCommission",
+            "twitter": "https://twitter.com/ksRealEstateCom"
+        },
+        "state": "Kansas",
+        "statecode": "KS",
+        "zipcode": "66603"
+    },
+    {
+        "address1": "656 Chamberlin Avenue, Suite B",
+        "city": "Frankfort",
+        "email": {
+            "main": "ppc.krec@ky.gov"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=2312",
+            "law": "https://krec.ky.gov/legal/Pages/default.aspx",
+            "license application": "https://krec.ky.gov/licensing/na/Pages/default.aspx",
+            "main": "https://krec.ky.gov/",
+            "news": "https://krec.ky.gov/legal/Pages/Meetingminutesarchive.aspx",
+            "realtors": "https://www.kyrealtors.com/"
+        },
+        "name": "Kentucky Real Estate Commission",
+        "phone": {
+            "fax": "502-564-1538",
+            "main": "502-564-7760"
+        },
+        "socials": {
+            "youtube": "https://www.youtube.com/channel/UC8kNclcgaeI79gYYTCj8KcQ"
+        },
+        "state": "Kentucky",
+        "statecode": "KY",
+        "zipcode": "40601"
+    },
+    {
+        "address1": "9071 Interline Ave",
+        "city": "Baton Rouge",
+        "email": {
+            "main": "info@lrec.state.la.us"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=1",
+            "law": "https://lrec.gov/laws-and-rules/license-law/",
+            "license application": "https://lrec.gov/become-licensed/",
+            "main": "https://www.lrec.gov",
+            "news": "https://lrec.gov/news-and-meetings/",
+            "realtors": "https://www.larealtors.org/",
+            "rules": "https://lrec.gov/laws-and-rules/rules-and-regulations/"
+        },
+        "name": "Louisiana Real Estate Commission",
+        "phone": {
+            "fax": "225-925-4501",
+            "main": "225-925-1923"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/pages/Louisiana-Real-Estate-Commission/248070718544940",
+            "twitter": "https://twitter.com/lrec1"
+        },
+        "state": "Louisiana",
+        "statecode": "LA",
+        "zipcode": "70809"
+    },
+    {
+        "address1": "Office of Professional & Occupational Regulation",
+        "address2": "35 State House Station",
+        "city": "Augusta",
+        "email": {
+            "main": "rlestate.com@maine.gov"
+        },
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/me/realestate",
+            "law": "https://www.mainelegislature.org/legis/statutes/32/title32ch114sec0.html",
+            "license application": "https://www.maine.gov/pfr/professionallicensing/professions/real_estate/forms.html",
+            "main": "https://www.maine.gov/pfr/professionallicensing/professions/real_estate/index.html",
+            "realtors": "https://www.mainerealtors.com/",
+            "rules": "https://www.maine.gov/sos/cec/rules/02/chaps02.htm#039"
+        },
+        "name": "Main\n Real Estate Commission",
+        "phone": {
+            "fax": "207-624-8637",
+            "main": "207-624-8521"
+        },
+        "state": "Maine",
+        "statecode": "ME",
+        "zipcode": "04333-0035"
+    },
+    {
+        "address1": "500 N. Calvert Street, Third Floor",
+        "city": "Baltimore",
+        "email": {
+            "main": "dlmrec-labor@maryland.gov"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=528",
+            "law": "http://www.dllr.state.md.us/license/law/mreclaw.shtml",
+            "license application": "http://www.dllr.state.md.us/license/mrec/mrecapply.shtml",
+            "main": "http://www.dllr.maryland.gov/license/mrec/",
+            "realtors": "https://www.mdrealtor.org/"
+        },
+        "name": "Maryland Real Estate Commission",
+        "phone": {
+            "fax": "410-333-0023",
+            "main": "410-230-6230"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/MarylandLabor",
+            "twitter": "https://twitter.com/MD_Labor",
+            "youtube": "https://www.youtube.com/channel/UCjc4_ncACVusJ6tZmtVJQjw"
+        },
+        "state": "Maryland",
+        "statecode": "MD",
+        "zipcode": "21202-3651"
+    },
+    {
+        "address1": "1000 Washington Street, Suite 710",
+        "city": "Boston",
+        "email": {
+            "main": "realestateboard@mass.gov"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=4460",
+            "law": "https://www.mass.gov/lists/statutes-and-regulations-real-estate-brokers-and-salespersons",
+            "license application": "https://www.mass.gov/how-to/apply-for-a-real-estate-license",
+            "main": "https://www.mass.gov/orgs/board-of-registration-of-real-estate-brokers-and-salespersons",
+            "realtors": "https://www.marealtor.com/"
+        },
+        "name": "Massachusetts Board of Registration of Real Estate Brokers and Salespersons",
+        "phone": {
+            "fax": "617-727-0139",
+            "main": "617-701-8661"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/massgov",
+            "instagram": "https://www.instagram.com/massgov/",
+            "twitter": "https://twitter.com/massgov",
+            "youtube": "https://www.youtube.com/user/massgov"
+        },
+        "state": "Massachusetts",
+        "statecode": "MA",
+        "zipcode": "02118"
+    },
+    {
+        "address1": "Bureau of Professional Licensing",
+        "address2": "611 W. Ottawa St.",
+        "address3": "P.O. Box 30670",
+        "city": "Lansing",
+        "email": {
+            "main": "bplhelp@michigan.gov"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=836",
+            "law": "https://www.michigan.gov/lara/0,4601,7-154-89334_72600_72783---,00.html",
+            "license application": "https://www.mass.gov/how-to/apply-for-a-real-estate-license",
+            "main": "https://www.michigan.gov/lara/0,4601,7-154-89334_72600_72602_72731_72871---,00.html",
+            "realtors": "https://www.mirealtors.com/"
+        },
+        "name": "Michigan\n Department of Licensing and Regulatory Affairs\n (LARA)",
+        "phone": {
+            "fax": "517-241-9416",
+            "main": "517-241-0199"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/michiganLARA/",
+            "instagram": "https://www.youtube.com/user/michiganLARA",
+            "linkedin": "https://www.linkedin.com/company/michigan-department-of-licensing-and-regulatory-affairs/",
+            "twitter": "https://twitter.com/michiganlara",
+            "youtube": "https://www.youtube.com/user/massgov"
+        },
+        "state": "Michigan",
+        "statecode": "MI",
+        "zipcode": "48909"
+    },
+    {
+        "address1": "Licensing Division",
+        "address2": "85 7th Place East",
+        "city": "Saint Paul",
+        "email": {
+            "main": "licensing.commerce@state.mn.us"
+        },
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/mncommerce",
+            "law": "https://www.revisor.mn.gov/statutes/cite/82",
+            "license application": "https://mn.gov/commerce/licensees/real-estate/applications.jsp",
+            "main": "https://mn.gov/commerce/licensees/real-estate/",
+            "realtors": "https://www.mnrealtor.com/"
+        },
+        "name": "Minnesota Department of\n Commerce",
+        "phone": {
+            "main": "651-539-1599"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/MNCommerce/",
+            "twitter": "https://twitter.com/mncommerce"
+        },
+        "state": "Minnesota",
+        "statecode": "MN",
+        "zipcode": "55101-3165"
+    },
+    {
+        "address1": "Lefleur's Bluff Tower",
+        "address2": "4780 I-55 North, Suite 300",
+        "city": "Jackson",
+        "email": {
+            "main": "info@mrec.state.ms.us"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=2349",
+            "law": "http://www.mrec.ms.gov/license_law.html",
+            "license application": "http://www.mrec.ms.gov/forms.html",
+            "main": "http://www.mrec.ms.gov/",
+            "realtors": "https://msrealtors.org/"
+        },
+        "name": "Mississippi Real Estate Commission",
+        "phone": {
+            "fax": "601-321-6955",
+            "main": "601-321-6970"
+        },
+        "state": "Mississippi",
+        "statecode": "MS",
+        "zipcode": "39211"
+    },
+    {
+        "address1": "Real Estate Commission",
+        "address2": "3605 Missouri Boulevard",
+        "city": "Jefferson City",
+        "email": {
+            "main": "realestate@pr.mo.gov"
+        },
+        "links": {
+            "exam provider": "https://online.goamp.com/CandidateHome/examination.aspx?p_category=REAL%20ESTATE&p_client_code=MOCT&p_exam_id=36",
+            "license application": "https://pr.mo.gov/realestate-application-forms.asp",
+            "main": "https://pr.mo.gov/realestate.asp",
+            "news": "https://pr.mo.gov/realestate-newsletters.asp",
+            "realtors": "https://www.missourirealtor.org/",
+            "rules": "https://pr.mo.gov/realestate-rules-statutes.asp"
+        },
+        "name": "Missouri Division of Professional\n Registration",
+        "phone": {
+            "fax": "573-751-2777",
+            "main": "573-751-2628"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/MissouriDCI/",
+            "twitter": "https://twitter.com/MissouriDIFP",
+            "youtube": "https://www.youtube.com/user/missouridifp"
+        },
+        "state": "Missouri",
+        "statecode": "MO",
+        "zipcode": "65109"
+    },
+    {
+        "address1": "Business Standards Division",
+        "address2": "301 South Park",
+        "address3": "PO Box 200513",
+        "city": "Helena",
+        "email": {
+            "main": "dlibsdhelp@mt.gov"
+        },
+        "links": {
+            "exam provider": "https://online.goamp.com/CandidateHome/examination.aspx?p_category=REAL%20ESTATE&p_client_code=MTREP&p_exam_id=13746",
+            "license application": "http://boards.bsd.dli.mt.gov/rre#1?2",
+            "main": "http://boards.bsd.dli.mt.gov/rre",
+            "realtors": "https://www.montanarealtors.org/",
+            "rules": "http://boards.bsd.dli.mt.gov/rre#8"
+        },
+        "name": "Montana Board of Realty Regulation",
+        "phone": {
+            "main": "406-444-6880"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/MTDLI/",
+            "linkedin": "https://www.linkedin.com/showcase/montana-department-of-labor-&-industry/about/",
+            "youtube": "https://www.youtube.com/user/mtlaborandindustry"
+        },
+        "state": "Montana",
+        "statecode": "MT",
+        "zipcode": "59620-0513"
+    },
+    {
+        "address1": "301 Centennial Mall South",
+        "address2": "P.O. Box 94667",
+        "city": "Lincoln",
+        "email": {
+            "main": "realestate.commission@nebraska.gov"
+        },
+        "links": {
+            "exam provider": "https://nrec.nebraska.gov/licensing-forms/examprocedures.html",
+            "law": "https://nrec.nebraska.gov/legal/licensemanual.html",
+            "license application": "https://nrec.nebraska.gov/licensing-forms/applicationprocess.html",
+            "main": "https://nrec.nebraska.gov/",
+            "news": "https://nrec.nebraska.gov/whatsnew.html",
+            "realtors": "https://www.nebraskarealtors.com/"
+        },
+        "name": "Nebraska Real Estate Commission",
+        "phone": {
+            "fax": "402-471-4492",
+            "main": "402-471-2004"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/NebraskaRealEstateCommission/",
+            "twitter": "https://twitter.com/NERealEstateCom"
+        },
+        "state": "Nebraska",
+        "statecode": "NE",
+        "zipcode": "68509-4667"
+    },
+    {
+        "address1": "3300 W. Sahara Avenue, Suite 350",
+        "city": "Las Vegas",
+        "email": {
+            "main": "realest@red.nv.gov"
+        },
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/nv/realestate",
+            "law": "https://www.leg.state.nv.us/NRS/NRS-645.html",
+            "license application": "http://red.nv.gov/Content/Real_Estate/Salesperson/Initial_License_Requirements/",
+            "main": "http://www.red.nv.gov/",
+            "news": "http://red.nv.gov/Content/Real_Estate/Whats_New/",
+            "realtors": "https://nevadarealtors.org/"
+        },
+        "name": "Nevada Real Estate Division",
+        "phone": {
+            "fax": "702-486-4275",
+            "main": "702-486-4033"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/pages/Nevada-Real-Estate-Division/1459473487506665",
+            "twitter": "https://twitter.com/NERealEstateCom"
+        },
+        "state": "Nevada",
+        "statecode": "NV",
+        "zipcode": "89102"
+    },
+    {
+        "address1": "121 South Fruit Street, Suite 201",
+        "city": "Concord",
+        "links": {
+            "exam provider": "https://online.goamp.com/CandidateHome/examination.aspx?p_category=REAL%20ESTATE&p_client_code=NHREP&p_exam_id=20700",
+            "law": "https://www.oplc.nh.gov/real-estate-commission/laws-rules.htm",
+            "license application": "http://red.nv.gov/Content/Real_Estate/Salesperson/Initial_License_Requirements/",
+            "main": "https://www.oplc.nh.gov/real-estate-commission/",
+            "realtors": "https://www.nhar.org/"
+        },
+        "name": "New Hampshire Real Estate\n Commission",
+        "phone": {
+            "main": "603-271-2152"
+        },
+        "state": "New Hampshire",
+        "statecode": "NH",
+        "zipcode": "03301"
+    },
+    {
+        "address1": "20 West State Street",
+        "address2": "PO Box 328",
+        "city": "Trenton",
+        "email": {
+            "main": "realestate@dobi.nj.gov"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=1663",
+            "law": "https://lis.njleg.state.nj.us/nxt/gateway.dll?f=templates&fn=default.htm&vid=Publish:10.1048/Enu",
+            "license application": "https://www.state.nj.us/dobi/division_rec/licensing/continuingeducation/applications.htm",
+            "main": "https://www.state.nj.us/dobi/division_rec/index.htm",
+            "realtors": "https://www.njrealtor.com/"
+        },
+        "name": "New Jersey Real Estate\n Commission",
+        "phone": {
+            "fax": "609-292-0944",
+            "main": "609-292-7272"
+        },
+        "state": "New Jersey",
+        "statecode": "NJ",
+        "zipcode": "08625-0328"
+    },
+    {
+        "address1": "5500 San Antonio Dr NE, Suite B",
+        "city": "Albuquerque",
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=998",
+            "law": "https://www.rld.state.nm.us/boards/Real_Estate_Commission_Rules_and_Laws.aspx",
+            "license application": "https://www.rld.state.nm.us/boards/Real_Estate_Commission_Requirements_and_Continuing_Education.aspx",
+            "main": "https://www.rld.state.nm.us/boards/real_estate_commission.aspx",
+            "realtors": "https://www.nmrealtor.com/"
+        },
+        "name": "New Mexico Real\n Estate\n Commission",
+        "phone": {
+            "main": "505-222-9820"
+        },
+        "state": "New Mexico",
+        "statecode": "NM",
+        "zipcode": "87109"
+    },
+    {
+        "address1": "PO Box 22001",
+        "links": {
+            "exam provider": "https://www.dos.ny.gov/licensing/eaccessny.html",
+            "law": "https://www.dos.ny.gov/licensing/pdfs/0956_001.pdf",
+            "license application": "https://www.dos.ny.gov/licensing/re_salesperson/re_sales_broker_faq.html",
+            "main": "https://www.dos.ny.gov/licensing/realestate/re_bore.html",
+            "realtors": "https://www.nysar.com/"
+        },
+        "name": "New York Division of\n Licensing Services",
+        "state": "New York"
+    },
+    {
+        "address1": "1313 Navaho Drive",
+        "city": "Raleigh",
+        "email": {
+            "main": "admin@ncrecpubs.org"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=4536",
+            "law": "https://www.ncrec.gov/Resources/LicenseLaw",
+            "license application": "https://www.ncrec.gov/Licensing/ApplyLicense",
+            "main": "https://www.ncrec.gov",
+            "news": "https://ncrecblog.com/category/news/",
+            "realtors": "https://www.ncrealtors.org/"
+        },
+        "name": "North Carolina Real Estate Commission",
+        "phone": {
+            "main": "919-875-3700"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/pages/North-Carolina-Real-Estate-Commission/196784338790",
+            "twitter": "https://twitter.com/NCRealEstateCom"
+        },
+        "state": "North Carolina",
+        "statecode": "NC",
+        "zipcode": "27609"
+    },
+    {
+        "address1": "1110 College Dr. Suite 207",
+        "city": "Bismarck",
+        "links": {
+            "exam provider": "https://online.goamp.com/CandidateHome/examination.aspx?p_category=REAL%20ESTATE&p_client_code=NDREP&p_exam_id=1298",
+            "law": "https://www.realestatend.org/information/license-law/",
+            "license application": "https://www.realestatend.org/information/obtaining-a-real-estate-license/salesperson/",
+            "main": "https://www.realestatend.org/",
+            "realtors": "https://www.ndrealtors.com/"
+        },
+        "name": "North Dakota Real Estate Commission",
+        "phone": {
+            "main": "701-328-9749"
+        },
+        "state": "North Dakota",
+        "statecode": "ND",
+        "zipcode": "58501-1207"
+    },
+    {
+        "address1": "77 South High Street, 20th Floor",
+        "city": "Columbus",
+        "email": {
+            "main": "WebReal@com.state.oh.us"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=1001",
+            "law": "http://www.com.state.oh.us/real/realrevcodes.aspx",
+            "license application": "https://www.com.ohio.gov/real/Licensing.aspx",
+            "main": "https://www.com.ohio.gov/real/",
+            "news": "https://apps2.com.ohio.gov/admn/pressroom/",
+            "realtors": "https://www.ohiorealtors.org/"
+        },
+        "name": "Ohio Division of Real Estate and Professional\n Licensing",
+        "phone": {
+            "fax": "614-644-0584",
+            "main": "614-466-4100"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/CommerceOhio",
+            "linkedin": "https://www.linkedin.com/company/ohio-department-of-commerce/",
+            "twitter": "https://twitter.com/OHDIVRealEstate",
+            "youtube": "https://www.youtube.com/channel/UC_MyluygkWheJe3ylV5HwEA"
+        },
+        "state": "Ohio",
+        "statecode": "OH",
+        "zipcode": "43215-6133"
+    },
+    {
+        "address1": "1915 N. Stiles Ave., Suite 200",
+        "city": "Oklahoma City",
+        "email": {
+            "main": "orec.help@orec.ok.gov"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=1526",
+            "law": "https://www.ok.gov/OREC/",
+            "license application": "https://www.ok.gov/OREC/Information_for_Obtaining_a_License/index.html",
+            "main": "https://www.ok.gov/OREC/",
+            "news": "https://www.ok.gov/OREC/Publications/index.html",
+            "realtors": "http://okrealtors.com/",
+            "rules": "https://www.ok.gov/OREC/documents/License%20Code%20and%20Rule%20Book%20(2018).pdf"
+        },
+        "name": "Oklahoma Real Estate Commission",
+        "phone": {
+            "fax": "405-521-2189",
+            "main": "405-521-3387"
+        },
+        "state": "Oklahoma",
+        "statecode": "OK",
+        "zipcode": "73105-4919"
+    },
+    {
+        "address1": "Equitable Center, Suite 100",
+        "address2": "530 Center St. NE",
+        "city": "Salem",
+        "email": {
+            "main": "orea.info@oregon.gov"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=610",
+            "law": "https://www.oregon.gov/REA/Pages/laws_rules.aspx",
+            "license application": "https://www.oregon.gov/rea/licensing/Get_License/Pages/Broker.aspx",
+            "main": "https://www.oregon.gov/rea/",
+            "news": "https://www.oregon.gov/rea/Pages/news_journal.aspx",
+            "realtors": "https://oregonrealtors.org/"
+        },
+        "name": "Oregon Real Estate Agency",
+        "phone": {
+            "main": "503-378-4170"
+        },
+        "socials": {
+            "youtube": "https://www.youtube.com/channel/UCOyh6h9EdPaYYwexggpsx3g"
+        },
+        "state": "Oregon",
+        "statecode": "OR",
+        "zipcode": "97301-3740"
+    },
+    {
+        "address1": "PO Box 2649",
+        "city": "Harrisburg",
+        "email": {
+            "main": "ra-realestate@pa.gov"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=610",
+            "law": "https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/RealEstateCommission/Pages/Commission%20Laws%20and%20Regulatations.aspx",
+            "license application": "https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/RealEstateCommission/Pages/Real-Estate-Guide.aspx",
+            "main": "https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/RealEstateCommission/",
+            "news": "https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/RealEstateCommission/Pages/Announcements.aspx",
+            "realtors": "https://www.parealtors.org/"
+        },
+        "name": "Pennsylvania\n Real Estate Commission",
+        "phone": {
+            "fax": "717-787-0250",
+            "main": "717-783-3658"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/PADepartmentofState",
+            "twitter": "https://twitter.com/PAStateDept"
+        },
+        "state": "Pennsylvania",
+        "statecode": "PA",
+        "zipcode": "17105-2649"
+    },
+    {
+        "address1": "1511 Pontiac Avenue",
+        "city": "Cranston",
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/ri/realestate",
+            "law": "https://dbr.ri.gov/divisions/commlicensing/realestate/laws.php",
+            "license application": "https://dbr.ri.gov/divisions/commlicensing/realestate/applications.php",
+            "main": "https://dbr.ri.gov/divisions/commlicensing/realestate.php",
+            "realtors": "https://www.rirealtors.org/"
+        },
+        "name": "Rhode Island Commercial\n Licensing - Real Estate Section",
+        "phone": {
+            "fax": "401-462-9532",
+            "main": "401-462-9500"
+        },
+        "state": "Rhode Island",
+        "statecode": "RI",
+        "zipcode": "02920"
+    },
+    {
+        "address1": "Synergy Business Park; Kingstree Building",
+        "address2": "110 Centerview Dr.",
+        "city": "Columbia",
+        "email": {
+            "main": "contact.rec@llr.sc.gov"
+        },
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/ri/realestate",
+            "law": "https://llr.sc.gov/re/recpdf/Real%20Estate%20Commission%20License%20Law%20Effective%201.1.2017.pdf",
+            "license application": "https://llr.sc.gov/re/Instructions.aspx",
+            "main": "https://llr.sc.gov/re/",
+            "news": "https://llr.sc.gov/re/news.aspx",
+            "realtors": "https://www.screaltors.org/",
+            "rules": "https://www.scstatehouse.gov/coderegs/Chapter%20105.pdf"
+        },
+        "name": "South Carolina Real Estate Commission",
+        "phone": {
+            "main": "803-896-4400"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/scllr/",
+            "twitter": "https://twitter.com/scdllr/"
+        },
+        "state": "South Carolina",
+        "statecode": "South",
+        "zipcode": "Carolina"
+    },
+    {
+        "address1": "221 W. Capital Avenue, Suite 101",
+        "city": "Pierre",
+        "email": {
+            "main": "dlr.realestate@state.sd.us"
+        },
+        "links": {
+            "exam provider": "https://online.goamp.com/CandidateHome/examination.aspx?p_category=REAL%20ESTATE&p_client_code=SDCT&p_exam_id=21280",
+            "law": "https://dlr.sd.gov/realestate/laws_rules.aspx",
+            "license application": "https://dlr.sd.gov/realestate/applications_for_licensing.aspx",
+            "main": "https://dlr.sd.gov/realestate/",
+            "news": "https://dlr.sd.gov/realestate/meetings.aspx",
+            "realtors": "https://sdrealtor.org/"
+        },
+        "name": "South Dakota Real Estate Commission",
+        "phone": {
+            "fax": "605-773-7175",
+            "main": "605-773-3600"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/SouthDakotaDLR/",
+            "linkedin": "https://www.linkedin.com/company/department-of-labor-and-regulation/",
+            "twitter": "https://twitter.com/SouthDakotaDLR",
+            "youtube": "https://www.youtube.com/user/SouthDakotaDLR"
+        },
+        "state": "South Dakota",
+        "statecode": "SD",
+        "zipcode": "57501-2000"
+    },
+    {
+        "address1": "500 James Robertson Parkway",
+        "city": "Nashville",
+        "email": {
+            "main": "TREC.info@tn.gov"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=508",
+            "law": "https://www.tn.gov/commerce/regboards/trec/rules-and-laws/laws.html",
+            "license application": "https://www.tn.gov/commerce/regboards/trec/licensee-applicant-resources/how-to-get-a-license.html",
+            "main": "https://www.tn.gov/commerce/regboards/trec.html",
+            "news": "https://www.tn.gov/commerce/regboards/trec/news-and-information.html",
+            "realtors": "https://tnrealtors.com/",
+            "rules": "https://publications.tnsosfiles.com/rules/1260/1260.htm"
+        },
+        "name": "Tennessee Real Estate\n Commission",
+        "phone": {
+            "main": "615-741-2241"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/TennesseeCommerceAndInsurance",
+            "flickr": "https://www.flickr.com/photos/138586353@N07/",
+            "instagram": "https://www.instagram.com/tncommerceinsur/",
+            "linkedin": "https://www.linkedin.com/company/tennessee-department-of-commerce-and-insurance/",
+            "twitter": "https://twitter.com/TNCommerceInsur",
+            "youtube": "https://www.youtube.com/user/TNDCImedia/"
+        },
+        "state": "Tennessee",
+        "statecode": "TN",
+        "zipcode": "37243-1151"
+    },
+    {
+        "address1": "1700 North Congress Ave, Suite 400",
+        "address2": "PO Box 12188",
+        "city": "Austin",
+        "email": {
+            "main": "information@trec.texas.gov"
+        },
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/tx/realestate",
+            "law": "https://www.trec.texas.gov/rules-and-laws",
+            "license application": "https://www.trec.texas.gov/become-licensed/sales-agent",
+            "main": "https://www.trec.texas.gov/",
+            "news": "https://www.trec.texas.gov/news-articles",
+            "realtors": "https://www.texasrealestate.com/"
+        },
+        "name": "Texas Real Estate Commission",
+        "phone": {
+            "main": "512-936-3000"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/TRECommission/",
+            "instagram": "https://www.instagram.com/tncommerceinsur/",
+            "twitter": "https://twitter.com/TRECommission",
+            "youtube": "https://www.youtube.com/user/TheTXREC"
+        },
+        "state": "Texas",
+        "statecode": "TX",
+        "zipcode": "78711-2188"
+    },
+    {
+        "address1": "Heber M. Wells Building",
+        "address2": "2nd Floor",
+        "address3": "160 East 300 South",
+        "city": "Salt Lake City",
+        "email": {
+            "main": "realestate@utah.gov"
+        },
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/ut/realestate",
+            "law": "https://le.utah.gov/xcode/Title61/Chapter2F/61-2f.html?v=C61-2f_1800010118000101",
+            "license application": "https://realestate.utah.gov/realestate/salesagent.html",
+            "main": "https://realestate.utah.gov/realestate/",
+            "realtors": "https://utahrealtors.com/",
+            "rules": "https://rules.utah.gov/publicat/code/r162/r162-02f.htm"
+        },
+        "name": "Utah Division of Real Estate",
+        "phone": {
+            "fax": "801-530-6749",
+            "main": "801-530-6747"
+        },
+        "state": "Utah",
+        "statecode": "UT",
+        "zipcode": "84114-6711"
+    },
+    {
+        "address1": "Office of Professional Regulation",
+        "address2": "89 Main Street, 3rd Floor",
+        "city": "Montpelier",
+        "email": {
+            "main": "judith.roy@vermont.gov"
+        },
+        "links": {
+            "exam provider": "https://online.goamp.com/CandidateHome/examination.aspx?p_category=REAL%20ESTATE&p_client_code=VTREP&p_exam_id=21391",
+            "law": "https://sos.vermont.gov/real-estate-brokers-salespersons/statutes-rules-resources/",
+            "license application": "https://sos.vermont.gov/real-estate-brokers-salespersons/forms-instructions/",
+            "main": "https://sos.vermont.gov/real-estate-brokers-salespersons/",
+            "realtors": "https://www.vermontrealtors.com/"
+        },
+        "name": "Vermont Secretary of\n State",
+        "phone": {
+            "main": "802-828-1505"
+        },
+        "state": "Vermont",
+        "statecode": "VT",
+        "zipcode": "05620-3402"
+    },
+    {
+        "address1": "Perimeter Center, Suite 400",
+        "address2": "9960 Mayland Drive",
+        "city": "Richmond",
+        "email": {
+            "main": "REBoard@dpor.virginia.gov"
+        },
+        "links": {
+            "exam provider": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=466",
+            "law": "https://law.lis.virginia.gov/vacode/title54.1/chapter21/",
+            "license application": "http://www.dpor.virginia.gov/Boards/Real-Estate/How_to_Apply_Individual/",
+            "main": "http://www.dpor.virginia.gov/Boards/Real-Estate/",
+            "realtors": "https://www.virginiarealtors.org/",
+            "rules": "https://law.lis.virginia.gov/admincode/title18/agency135/chapter20/"
+        },
+        "name": "Virginia Real Estate Board",
+        "phone": {
+            "fax": "866-826-8863",
+            "main": "804-367-8526"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/VirginiaDPOR",
+            "youtube": "https://www.youtube.com/user/VirginiaDPOR"
+        },
+        "state": "Virginia",
+        "statecode": "VA",
+        "zipcode": "23233"
+    },
+    {
+        "address1": "PO Box 9020",
+        "city": "Olympia",
+        "email": {
+            "main": "RealEstate@dol.wa.gov"
+        },
+        "links": {
+            "exam provider": "https://online.goamp.com/CandidateHome/examination.aspx?p_category=REAL%20ESTATE&p_client_code=WAREP&p_exam_id=21311",
+            "law": "https://www.dol.wa.gov/business/realestate/lawsrules.html",
+            "license application": "https://www.dol.wa.gov/business/realestate/brokerslicense.html",
+            "main": "https://www.dol.wa.gov/business/realestate/realestatecommission.html",
+            "news": "https://www.dol.wa.gov/business/realestate/renews.html",
+            "realtors": "https://www.warealtor.org/"
+        },
+        "name": "Washington State Real Estate\n Commission",
+        "phone": {
+            "fax": "360-586-0998",
+            "main": "360-664-6525"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/WSDOL",
+            "twitter": "https://twitter.com/WA_DOL"
+        },
+        "state": "Washington",
+        "statecode": "WA",
+        "zipcode": "98507-9020"
+    },
+    {
+        "address1": "300 Capitol Street, Suite 400",
+        "city": "Charleston",
+        "email": {
+            "main": "wvrec@wv.gov"
+        },
+        "links": {
+            "exam provider": "https://online.goamp.com/CandidateHome/examination.aspx?p_category=REAL%20ESTATE&p_client_code=WVREP&p_exam_id=21695",
+            "law": "https://rec.wv.gov/Law/Pages/default.aspx",
+            "license application": "https://rec.wv.gov/License-Info/Pages/Salesperson.aspx",
+            "main": "https://rec.wv.gov",
+            "realtors": "https://wvrealtors.com/"
+        },
+        "name": "West Virginia Real Estate Commission",
+        "phone": {
+            "fax": "304-558-6442",
+            "main": "304-558-3555"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/West-Virginia-Real-Estate-Commission-413123258709336/"
+        },
+        "state": "West Virginia",
+        "statecode": "WV",
+        "zipcode": "25301"
+    },
+    {
+        "address1": "Hill Farms State Office Building",
+        "address2": "4822 Madison Yards Way",
+        "city": "Madison",
+        "email": {
+            "main": "dsps@wi.gov"
+        },
+        "links": {
+            "exam provider": "https://home.pearsonvue.com/wi/realestate",
+            "law": "https://www.legis.state.wi.us/statutes/Stat0452.pdf",
+            "license application": "https://dsps.wi.gov/Pages/Professions/RESalesperson/Default.aspx",
+            "main": "https://dsps.wi.gov/Pages/BoardsCouncils/RealEstate/",
+            "realtors": "https://www.wra.org/"
+        },
+        "name": "Wisconsin Department of\n Safety & Professional Services",
+        "phone": {
+            "main": "608-266-2112"
+        },
+        "socials": {
+            "twitter": "https://twitter.com/WI_DSPS"
+        },
+        "state": "Wisconsin",
+        "statecode": "WI",
+        "zipcode": "53705"
+    },
+    {
+        "address1": "2617 E. Lincolnway, Suite H",
+        "city": "Cheyenne",
+        "email": {
+            "main": "realestatecommission@wyo.gov"
+        },
+        "links": {
+            "exam provider": "https://online.goamp.com/CandidateHome/examination.aspx?p_category=REAL%20ESTATE&p_client_code=WYREP&p_exam_id=1293",
+            "law": "http://realestate.wyo.gov/real-estate-professionals/rules-and-regulations",
+            "license application": "http://realestate.wyo.gov/real-estate-professionals/forms",
+            "main": "http://realestate.wyo.gov",
+            "news": "http://realestate.wyo.gov/real-estate-commission/commission-news",
+            "realtors": "https://www.wyomingrealtors.org/"
+        },
+        "name": "Wyoming Real Estate Commission",
+        "phone": {
+            "fax": "307-777-3796",
+            "main": "307-777-7141"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/pages/Wyoming-Real-Estate-Commission/104799646252196"
+        },
+        "state": "Wyoming",
+        "statecode": "WY",
+        "zipcode": "82002"
+    }
+]
